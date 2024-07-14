@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Angular and voice chatbot developer with a strong focus on creating dynamic and responsive web applications. With a background in software engineering, I enjoy working on innovative projects that solve real-world problems.
+I am a passionate Angular and voice chatbot developer with a strong focus on creating dynamic and responsive web applications and AI conversational interactive chatbot applications. With a background in software engineering, I enjoy working on innovative projects that solve real-world problems.
 
 ## 🔧 Technologies & Tools
 
