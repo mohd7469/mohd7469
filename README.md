@@ -25,7 +25,7 @@ I am a passionate Angular and voice chatbot developer with a strong focus on cre
 
 ## 📊 Google Sites
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![View](http://sites.google.com/view/awais786327)
 
 ## 📫 How to Reach Me
 
