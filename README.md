@@ -22,6 +22,7 @@ I am a passionate Angular and voice chatbot developer with a strong focus on cre
 ### Project 2: [Database Replication Portal](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1795769995342548992)
 ### Project 3: [Azure Integration Portal](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1795767563821686784)
 ### Project 4: [Tone](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1168494294115094528)
+### Project 5: [Nextep](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1168497697491316736)
 
 ## 📊 Google Sites
 
