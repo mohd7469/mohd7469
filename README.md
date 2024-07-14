@@ -25,7 +25,7 @@ I am a passionate Angular and voice chatbot developer with a strong focus on cre
 
 ## 📊 Google Sites
 
-![View](http://sites.google.com/view/awais786327)
+### View chatbot examples here: [View](http://sites.google.com/view/awais786327)
 
 ## 📫 How to Reach Me
 
