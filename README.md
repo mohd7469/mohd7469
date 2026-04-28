@@ -2,9 +2,7 @@
 
 I am a developer with a strong focus & vision on creating something meaningful impact through purpose-driven technologies. With a background in software engineering, I enjoy working on innovative projects that solve real-world problems.
 
-## How to Reach Me
+## Contacts
 
 - **Email:** [awais3227443@gmail.com](mailto:awais3227443@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/awais786327](https://www.linkedin.com/in/awais786327/)
-
-GitHub profile URL: [https://github.com/mohd7469](https://github.com/mohd7469)
