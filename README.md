@@ -16,16 +16,6 @@ I am a passionate Angular and voice chatbot developer with a strong focus on cre
 - **Others:** Restful APIs, Agile Methodologies, CI/CD
 - **Voice Chatbots:** Dialogflow, ChatGPT, Gemini, Node.js
 
-## 📝 Projects
-
-### 1. [B2b Webapp](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1795772385609863168)
-### 2. [Database Replication Portal](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1795769995342548992)
-### 3. [Azure Integration Portal](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1795767563821686784)
-### 4. [Tone](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1168494294115094528)
-### 5. [Nextep](https://www.upwork.com/freelancers/~01a416a5e17daab2b5?p=1168497697491316736)
-### 6. [Google Dialogflow](http://sites.google.com/view/awais786327)
-
-
 ## 📫 How to Reach Me
 
 - **Email:** [awais3227443@gmail.com](mailto:awais3227443@gmail.com)
